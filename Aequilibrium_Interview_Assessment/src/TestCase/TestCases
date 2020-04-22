@@ -1,0 +1,19 @@
+Scenario Login Functionality
+
+Test Case #              Test Case Description
+
+   1.                     User login with valid password and user id.
+   2.                     User login with invalid password and user id.
+   3.                     User login with valid password and invalid user id.
+   4.                     User login with invalid password and valid user id.
+   5.                     User login with empty password and empty user id in text box.
+   6.                     Verify if password and user id takes special characters in the beginning.
+   7.                     Verify if password and user id takes alphanumeric values.
+   8.                     Verify maximum character in user id and password.
+   9.                     Verify user id and password with max character -1.
+   10.                    Verify user id and password with max character +1.
+   11.                    Verify user id and password with minimum character.
+   12.                    Verify user id and password with minimum character -1.
+   13.                    Verify user id and password with minimum character +1.
+   14.                    Verify user id and password with space in between.
+
